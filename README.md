@@ -3,6 +3,8 @@
 
 Este curso forneceu uma abordagem clara e precisa para aprender o paradigma de Programação Orientada a Objetos (POO). Como um dos paradigmas de programação mais amplamente utilizados atualmente, dominar os conceitos de POO é fundamental para construir uma carreira sólida na área de programação. Além de fornecer uma compreensão sólida da teoria, o curso também proporciona uma rica variedade de exemplos e práticas para aplicar os conceitos aprendidos em projetos reais. É importante mencionar que esses conceitos também podem ser aplicados em outras linguagens de programação.
 
+Não posso deixar de mencionar que enquanto estava compilando esse projeto ministrado pelo Balta.Io o projetava ao som de Led Zeppelin - Stairway To Heaven
+
 💻💻 Para rodar o projeto e necessario ter a versão .NET framework para a versão 5.0.0. Você pode baixar a versão correta do seguinte link: https://aka.ms/dotnet-core-applaunch?
 
 ## Oque foi aprendido com o curso Orientação à Objetos (OOP)...
