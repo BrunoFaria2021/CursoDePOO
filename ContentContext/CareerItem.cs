@@ -1,7 +1,7 @@
-using Balta.NotificationContext;
-using Balta.SharedContext;
+using Bruno.NotificationContext;
+using Bruno.SharedContext;
 
-namespace Balta.ContentContext
+namespace Bruno.ContentContext
 {
     public class CareerItem : Base
     {

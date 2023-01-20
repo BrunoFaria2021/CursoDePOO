@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Balta.ContentContext.Enums;
+using Bruno.ContentContext.Enums;
 
-namespace Balta.ContentContext
+namespace Bruno.ContentContext
 {
     public class Course : Content
     {

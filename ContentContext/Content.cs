@@ -1,7 +1,7 @@
 using System;
-using Balta.SharedContext;
+using Bruno.SharedContext;
 
-namespace Balta.ContentContext
+namespace Bruno.ContentContext
 {
     public abstract class Content : Base
     {

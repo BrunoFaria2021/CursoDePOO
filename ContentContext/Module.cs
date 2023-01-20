@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Balta.SharedContext;
+using Bruno.SharedContext;
 
-namespace Balta.ContentContext
+namespace Bruno.ContentContext
 {
     public class Module : Base
     {

@@ -1,4 +1,4 @@
-namespace Balta.ContentContext
+namespace Bruno.ContentContext
 {
     public class Article : Content
     {

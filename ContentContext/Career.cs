@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Balta.ContentContext
+namespace Bruno.ContentContext
 {
     public class Career : Content
     {
